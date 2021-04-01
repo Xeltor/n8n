@@ -1,3 +1,3 @@
 FROM n8nio/n8n
 
-RUN apk add --update mediainfo mkvtoolnix gpac
+RUN apk add --update mediainfo
